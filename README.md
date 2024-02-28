@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tiago Bastos</h1>
 <h3 align="center">A student to become a back-end developer.</h3>
 
-- 🌱 I’m currently learning **Java, Spring Boot and RESTful APIs**
+- 🔭 I’m looking for a first opportunity to work
 
-- 📫 How to reach me **tbbgoncalves@outlook.com**
+- 🌱 I’m currently learning Java, Spring Boot and RESTful APIs
+
+- 📫 How to reach me tbbgoncalves@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tbbgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tbbgoncalves" height="30" width="40" /></a>
+<a href="https://instagram.com/tbbgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tbbgoncalves" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
