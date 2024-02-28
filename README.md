@@ -5,7 +5,7 @@ Thank you for visiting my GitHub profile 😁
 
 I hope that you could find all the necessary information 🤝
 
-However, if couldn't, don't hesitate to contact me on the follow channels 👇
+However, if couldn't, don't hesitate to contact me on the following channels 👇
 
 <h2 align="center">Where you can find me</h2>
 <p align="center">
