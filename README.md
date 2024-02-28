@@ -7,11 +7,10 @@ I hope that you could find all the necessary information. However, if couldn't, 
 
 <h2 align="center">Where you can find me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/tbbgoncalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tbbgoncalves" height="30" width="40" /></a>
-<a href="https://instagram.com/tbbgoncalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tbbgoncalves" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tbbgoncalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin tbbgoncalves" height="30" width="40" /></a>
+<a href="https://instagram.com/tbbgoncalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram tbbgoncalves" height="30" width="40" /></a>
 <a href="mailto:tbbgoncalves@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="tbbgoncalves@outlook.com" height="30" width="40" /></a>
-<a href = 'https://www.github.com/tbbgoncalves'> <img width = '44px' align= 'center' src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966"/></a>
-</p>
+<a href="https://github.com/tbbgoncalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
 
 <h2 align="center">A little about myself</h2>
 
