@@ -9,6 +9,7 @@ However, if couldn't, don't hesitate to contact me on the following channels ðŸ‘
 
 <h2 align="center">Where you can find me</h2>
 <p align="center">
+<a href="https://wa.me/5521977494660" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp 55 21 97749 4660" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tbbgoncalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin tbbgoncalves" height="30" width="40" /></a>
 <a href="https://instagram.com/tbbgoncalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram tbbgoncalves" height="30" width="40" /></a>
 <a href="mailto:tbbgoncalves@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="tbbgoncalves@outlook.com" height="30" width="40" /></a>
